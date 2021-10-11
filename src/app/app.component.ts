@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component } from '@angular/core'; //permite decorar a class, fazendo se tornar em um componente Angular
 
 @Component({
   selector: 'app-root',
